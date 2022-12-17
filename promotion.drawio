@@ -450,7 +450,9 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="184" value="Panel Element Search Promotion" style="swimlane;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Fira Code;" parent="1" vertex="1">
-                    <mxGeometry x="-640" y="560" width="1440" height="520" as="geometry"/>
+                    <mxGeometry x="-640" y="560" width="1440" height="520" as="geometry">
+                        <mxRectangle x="-640" y="560" width="200" height="23" as="alternateBounds"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="185" value="search criteria" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;sketch=1;fontFamily=Fira Code;glass=0;shadow=0;rounded=1;" parent="184" vertex="1">
                     <mxGeometry x="560" y="70" width="320" height="176" as="geometry"/>
